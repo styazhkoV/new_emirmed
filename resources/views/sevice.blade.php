@@ -1,0 +1,10 @@
+@extends('layouts.app')
+@include('inc.menu')
+@include('inc.service')
+@section('title')
+    Услуги
+@endsection
+@section('header')
+@endsection
+<h1>Услуги</h1>
+@include('inc.footer')

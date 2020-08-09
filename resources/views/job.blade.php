@@ -1,0 +1,9 @@
+@extends('layouts.app')
+@include('inc.menu')
+@section('title')
+    Вакансии
+@endsection
+@section('header')
+@endsection
+<h1>Вакансии</h1>
+@include('inc.footer')
